@@ -1,0 +1,36 @@
+{
+    "title": "The Dig",
+    "questions": 
+    [
+        {
+            "text": "här är frågan",
+            "alternatives": 
+            [
+                { "text": "svar 1" },
+                { "text": "svar 2" },
+                { "text": "svar 3" }
+            ],
+            "answer": 2
+        },
+        {
+            "text": "",
+            "alternatives": 
+            [
+                { "text": "" },
+                { "text": "" },
+                { "text": "" }
+            ],
+            "answer": 0
+        },
+        {
+            "text": "",
+            "alternatives": 
+            [
+                { "text": "" },
+                { "text": "" },
+                { "text": "" }
+            ],
+            "answer": 0
+  	}
+    ]
+}
